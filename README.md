@@ -77,17 +77,17 @@ flowchart LR
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=thomas065\&show_icons=true\&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=thomas065\&theme=tokyonight)
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=thomas065\&theme=tokyo-night)
+![Stats](https://github-readme-stats.vercel.app/api?username=ThomasBell-dev\&show_icons=true\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=ThomasBell-dev\&theme=tokyonight)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThomasBell-dev\&theme=tokyo-night)
 
 ---
 
 ## 🚀 Featured Projects
 
-[![Terraform Blues](https://github-readme-stats.vercel.app/api/pin/?username=thomas065\&repo=terraformblues\&theme=tokyonight)](https://github.com/thomas065/terraformblues)
+[![Terraform Blues](https://github-readme-stats.vercel.app/api/pin/?username=ThomasBell-dev&repo=terraformblues\&theme=tokyonight)](https://github.com/ThomasBell-dev/terraformblues)
 
-[![GCP Notes](https://github-readme-stats.vercel.app/api/pin/?username=thomas065\&repo=GCP-Class_Notes\&theme=tokyonight)](https://github.com/thomas065/GCP-Class_Notes)
+[![GCP Notes](https://github-readme-stats.vercel.app/api/pin/?username=ThomasBell-dev\&repo=GCP-Class_Notes\&theme=tokyonight)](https://github.com/ThomasBell-dev/GCP-Class_Notes)
 
 ---
 
