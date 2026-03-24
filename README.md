@@ -117,5 +117,3 @@ flowchart LR
 SHAZZAM ⚡
 ```
 
-```
-```
