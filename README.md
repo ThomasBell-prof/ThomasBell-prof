@@ -85,9 +85,9 @@ flowchart LR
 
 ## 🚀 Featured Projects
 
-[![Terraform Blues](https://github-readme-stats.vercel.app/api/pin/?username=ThomasBell-dev&repo=terraformblues\&theme=tokyonight)](https://github.com/ThomasBell-dev/terraformblues)
-
 [![A Developers Guide to Multi-Github SSH Configuration](https://github-readme-stats.vercel.app/api/pin/?username=ThomasBell-prof&repo=How-to_Multi-SSH_Configuration\&theme=tokyonight)](https://github.com/ThomasBell-prof/How-to_Multi-SSH_Configuration)
+
+[![Terraform Blues](https://github-readme-stats.vercel.app/api/pin/?username=ThomasBell-dev&repo=terraformblues\&theme=tokyonight)](https://github.com/ThomasBell-dev/terraformblues)
 
 ---
 
