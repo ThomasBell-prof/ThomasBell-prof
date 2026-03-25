@@ -1,4 +1,4 @@
-# ⚡ Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">,  I'm Thomas Bell
+# ⚡ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),  I'm Thomas Bell
 
 ### ☁️ Cloud Security Engineer in Progress  
 **GCP • Terraform • Kubernetes • DevSecOps**
