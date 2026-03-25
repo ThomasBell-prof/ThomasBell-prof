@@ -87,7 +87,7 @@ flowchart LR
 
 [![Terraform Blues](https://github-readme-stats.vercel.app/api/pin/?username=ThomasBell-dev&repo=terraformblues\&theme=tokyonight)](https://github.com/ThomasBell-dev/terraformblues)
 
-[![A Developers Guide to Multi-Github SSH Configuration]([https://github-readme-stats.vercel.app/api/pin/?username=ThomasBell-dev\&repo=GCP-Class_Notes\&theme=tokyonight)](https://github.com/ThomasBell-dev/GCP-Class_Notes](https://github.com/ThomasBell-prof/How-to_Multi-SSH_Configuration))
+[![A Developers Guide to Multi-Github SSH Configuration]([https://github-readme-stats.vercel.app/api/pin/?username=ThomasBell-dev\&repo=GCP-Class_Notes\&theme=tokyonight)](https://github.com/ThomasBell-dev/How-to_Multi-SSH_Configuration))
 
 ---
 
