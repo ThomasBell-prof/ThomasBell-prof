@@ -77,9 +77,10 @@ flowchart LR
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ThomasBell-prof&show_icons=true&theme=tokyo-night)
+![Stats](https://github-readme-stats.vercel.app/api?username=ThomasBell-prof&show_icons=true&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com?user=ThomasBell-prof\&theme=tokyonight)
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThomasBell-prof\&theme=tokyo-night)
+[![Thomas Bell's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasBell-prof)](https://github.com/ThomasBell-prof/github-readme-stats)
 
 ---
 
